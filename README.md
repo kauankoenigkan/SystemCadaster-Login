@@ -25,7 +25,7 @@
 ## ⚡ Diferenciais Técnicos (Boas Práticas)
 
 * **Prevenção contra SQL Injection:** Utilização de `PreparedStatement` em todas as operações com o banco de dados.
-* **Persistência de Dados:** Armazenamento das informações em banco de dados relacional utilizando `MySQL/MariaDB` através do `XAMPP`.
+* **Persistência de Dados:** Armazenamento das informações em banco de dados relacional utilizando `MySQL` através do `XAMPP`.
 * **Separação de Responsabilidades:** Organização do sistema em classes independentes para cadastro, autenticação e controle do menu principal.
 * **Controle de Fluxo:** Implementação de limite de tentativas para reforçar a segurança do processo de autenticação.
 * **Gerenciamento de Recursos:** Fechamento da conexão com o banco de dados após cada operação.
