@@ -10,10 +10,10 @@
 ## 🚀 Tecnologias e Ferramentas
 
 * **Linguagem Principal:** `Java`
-* **Banco de Dados:** `MySQL/MariaDB`
+* **Banco de Dados:** `MySQL`
 * **Servidor Local:** `XAMPP`
 * **Persistência/Drivers:** `JDBC (MySQL Connector/J)`
-* **IDE Recomendada:** `IntelliJ IDEA`, `Eclipse` ou `VS Code`
+* **IDE Recomendada:** `IntelliJ IDEA (Utilizado por mim)`, `Eclipse` ou `VS Code`
 
 ## 📌 Funcionalidades
 
@@ -106,15 +106,6 @@ src/
 ├── Login.java
 └── Cadaster.java
 ```
-
-## 🔒 Melhorias Futuras
-
-* Criptografia de senhas utilizando `BCrypt`.
-* Verificação de e-mail duplicado durante o cadastro.
-* Classe dedicada ao gerenciamento de conexões.
-* Recuperação de senha.
-* Interface gráfica com `JavaFX`.
-* Migração para uma arquitetura web utilizando `Spring Boot`.
 
 ## 👨‍💻 Autor
 
