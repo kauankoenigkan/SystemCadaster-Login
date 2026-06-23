@@ -1,4 +1,4 @@
-# Sistema de Login e Cadastro
+# Sistema de Autenticação
 
 <p align="left">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
